@@ -1,0 +1,17 @@
+#!/bin/bash
+
+sips -Z 20 $1 -o "$1 20.jpg"
+sips -Z 1024 $1 -o "$1 1024.jpg"
+sips -Z 167 $1 -o "$1 167.jpg"
+sips -Z 152 $1 -o "$1 152.jpg"
+sips -Z 76 $1 -o "$1 76.jpg"
+sips -Z 80 $1 -o "$1 80.jpg"
+sips -Z 40 $1 -o "$1 40.jpg"
+sips -Z 58 $1 -o "$1 58.jpg"
+sips -Z 29 $1 -o "$1 29.jpg"
+sips -Z 180 $1 -o "$1 180.jpg"
+sips -Z 120 $1 -o "$1 120.jpg"
+sips -Z 87 $1 -o "$1 87.jpg"
+sips -Z 58 $1 -o "$1 58.jpg"
+sips -Z 60 $1 -o "$1 60.jpg"
+sips -Z 40 $1 -o "$1 40.jpg"
